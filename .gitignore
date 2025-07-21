@@ -1,0 +1,7 @@
+Data/
+Alzheimer_MRI_4_classes_dataset/
+*.h5
+*.pth
+*.jpg
+__pycache__/
+.ipynb_checkpoints/
